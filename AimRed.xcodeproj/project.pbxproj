@@ -24,6 +24,9 @@
 
 /* Begin PBXFileReference section */
 		5D4E13131CA4A7C800A86BC5 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = SOURCE_ROOT; };
+		5D6D2ECA1CA4B90B00F5AEF5 /* GoogleCodeJam */ = {isa = PBXFileReference; lastKnownFileType = folder; path = GoogleCodeJam; sourceTree = SOURCE_ROOT; };
+		5D6D2ECC1CA5277400F5AEF5 /* Algorithm */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Algorithm; sourceTree = SOURCE_ROOT; };
+		5D6D2ECD1CA5702200F5AEF5 /* codeforces */ = {isa = PBXFileReference; lastKnownFileType = folder; path = codeforces; sourceTree = SOURCE_ROOT; };
 		5D7F24A01CA4A710008C5441 /* AimRed */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AimRed; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -57,6 +60,9 @@
 		5D7F24A21CA4A710008C5441 /* AimRed */ = {
 			isa = PBXGroup;
 			children = (
+				5D6D2ECD1CA5702200F5AEF5 /* codeforces */,
+				5D6D2ECC1CA5277400F5AEF5 /* Algorithm */,
+				5D6D2ECA1CA4B90B00F5AEF5 /* GoogleCodeJam */,
 				5D4E13131CA4A7C800A86BC5 /* main.cpp */,
 			);
 			path = AimRed;

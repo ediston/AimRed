@@ -10,7 +10,7 @@ int main(){
     cin >> n;
     map<long , int> startedBefore;
     map<long , int> endedBefore;
-    vector<pair<long, long>> allpairs(n);
+    vector<pair<long, long> > allpairs(n);
     vector<long> startv(n, 0), endv(n, 0);
     
     long si = 0, ei=0;
